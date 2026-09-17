@@ -1,7 +1,7 @@
 # UM - Expire User Roles - Version 2.0.0
  Extension to Ultimate Member for User Roles Expiration based on an updated version of the [Expire Users](https://github.com/benhuson/expire-users) plugin included in this download.
 
-Support for:
+## Key Features
 * Time period until a User Role expires in number of Days, Weeks, Months or Years after introduction
 * Hosting User Role for expired Users
 * User Role selections to be included each with own settings 
