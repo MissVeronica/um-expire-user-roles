@@ -1,4 +1,4 @@
-# UM - Expire User Roles - Version 2.0.0
+# UM - Expire User Roles - Version 2.0.1
  Extension to Ultimate Member for User Roles Expiration based on an updated version of the [Expire Users](https://github.com/benhuson/expire-users) plugin included in this download.
 
 ## Key Features
@@ -113,7 +113,7 @@ Allowed Attributes:
 * <code>_expire_users_reminder</code> Timestamp for sending a Reminder email. Empty/removed after Reminder email sent.
 
 ## 3. Updates
-None
+* Version 2.0.1 Fix of "All Users" listing made UM status blank
 
 ## 4. Plugin References
 * Original [Expire Users](https://github.com/benhuson/expire-users) plugin version 1.2.2
