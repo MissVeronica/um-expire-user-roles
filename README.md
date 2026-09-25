@@ -113,7 +113,7 @@ Allowed Attributes:
 * <code>_expire_users_reminder</code> Timestamp for sending a Reminder email. Empty/removed after Reminder email sent.
 
 ## 3. Updates
-* Version 2.0.1 Fix of "All Users" listing made UM status blank
+* Version 2.0.1 Fix of "All Users" listing made UM account status column blank
 
 ## 4. Plugin References
 * Original [Expire Users](https://github.com/benhuson/expire-users) plugin version 1.2.2
