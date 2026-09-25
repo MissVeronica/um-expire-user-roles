@@ -109,8 +109,9 @@ class Expire_User_Admin {
 	 */
 	function manage_users_custom_column( $value, $column_name, $user_id ) {
 		$user = get_userdata( $user_id );
-		$value = '';
+		//$value = '';
 		if ( 'expire_user' == $column_name ) {
+			$value = '';
 			$u = new Expire_User( $user_id );
 			$expire_date = get_user_meta( $user_id, '_expire_user_date', true );
 			if ( $expire_date ) {
